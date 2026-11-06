@@ -1,0 +1,5 @@
+account_id,currency,booked_debit,booked_credit,booked_entry_count,valid_void_count,net_debit
+AC-100,USD,125.00,0.00,1,0,125.00
+AC-200,USD,80.00,0.00,1,0,80.00
+AC-300,USD,0.00,0.00,0,1,0.00
+AC-400,USD,0.00,195.00,2,1,-195.00
