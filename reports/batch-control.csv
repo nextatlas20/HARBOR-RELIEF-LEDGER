@@ -1,0 +1,4 @@
+batch_id,booked_debit,booked_credit,booked_entry_count,valid_void_count,control_state
+B-01,125.00,125.00,2,0,BALANCED
+B-02,80.00,70.00,2,0,OUT_OF_BALANCE
+B-03,0.00,0.00,0,2,VOID_ONLY
